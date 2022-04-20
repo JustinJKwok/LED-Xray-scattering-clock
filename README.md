@@ -20,5 +20,5 @@ Calculates the form factor of a cylinder oriented in-plane and aligned with the 
 To set time, hold button 1. Pressing Button 2 increments the current underlined number. Pressing Button 1 moves to the next number. Move through all numbers to finish.
 
 ## Images
-<img src="https://github.com/JustinJKwok/LED-Xray-scattering-clock/blob/main/rod_saxs_led_display.jpg" width="864" height="1152">
-<img src="https://github.com/JustinJKwok/LED-Xray-scattering-clock/blob/main/rod_saxs_led_display_side.jpg" width="520" height="1047">
+<img src="https://github.com/JustinJKwok/LED-Xray-scattering-clock/blob/main/rod_saxs_led_display.jpg" width="450" height="600">
+<img src="https://github.com/JustinJKwok/LED-Xray-scattering-clock/blob/main/rod_saxs_led_display_side.jpg" width="298" height="600">
