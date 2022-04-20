@@ -12,6 +12,8 @@ Calculates the form factor of a cylinder oriented in-plane and aligned with the 
 - Cylinder radius = 2 nm
 
 ## Usage
+Set python script to run on rpi boot.
+
 - Button 1 press: Cycle through digital clock display options (no display, display in 4 corners w/ & w/o black background)
 - Button 1 hold: Enter set time mode
 - Button 2 press: Cycle through brightness options
